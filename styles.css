@@ -1,0 +1,17 @@
+/* universal selector */
+*{margin: 0px;;
+  padding:10px}
+  /* element selector */
+  p{color: rgb(0, 17, 255);font-size: 20px;
+  }
+  /* element selector */
+  body{background-color: rgb(217, 149, 186);}
+  /* element selector */
+  h1{color: crimson
+      ;text-align: center;}
+      /* element selector */
+  h2{font-family: Arial, Helvetica, sans-serif;color: brown;}
+  
+  /* class selector */
+  p.description{color: black;}
+  
